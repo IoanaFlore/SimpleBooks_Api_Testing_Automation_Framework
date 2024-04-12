@@ -44,24 +44,24 @@ This directory includes two essential Python files:
 
 
 
+The project uses the requests library to communicate with the API. Complete test execution is handled by an external Python file called "test_suite", which implements API methods including get, post, patch, and delete.
 
+![13](https://github.com/IoanaFlore/SimpleBooks_Api_Testing_Automation_Framework/assets/111995212/367d1bfc-de0f-4816-896d-9e3cd0edfbd1)
 
-
-
-
-
-The project uses the requests library to communicate with the API. Complete test execution is handled by an external Python file called "test_suit", which implements API methods including get, post, patch, and delete.
-
-<img src="imagini-pycharm/test_suit.PNG" width="900" height="500">
 
 This well-defined structure facilitates the management and continuous development of tests, providing transparency and a clear understanding of the results and functionality tested. All these tests were originally written using the Postman tool and then converted using the PyCharm IDE and Python language to run automatically.
 
-<img src="imagini-postman/api-autentification.PNG" width="900" height="500">
+![14](https://github.com/IoanaFlore/SimpleBooks_Api_Testing_Automation_Framework/assets/111995212/239a4604-76da-4664-b8c9-744e4f9d5515)
 
-<img src="imagini-postman/get-api-status.PNG" width="900" height="500">
+![15](https://github.com/IoanaFlore/SimpleBooks_Api_Testing_Automation_Framework/assets/111995212/42c3183c-2d0d-4617-b4f2-506470cd9948)
 
-<img src="imagini-postman/get-list-of-books.PNG" width="900" height="500">
+![16](https://github.com/IoanaFlore/SimpleBooks_Api_Testing_Automation_Framework/assets/111995212/4469d152-74fd-4659-98fe-a3b92e46f6da)
 
-<img src="imagini-postman/update-an-order.PNG" width="900" height="500">
+![17](https://github.com/IoanaFlore/SimpleBooks_Api_Testing_Automation_Framework/assets/111995212/224f2e31-d669-49e1-816d-b2dee3ca1fd1)
 
-<img src="imagini-postman/delete-an-order.PNG" width="900" height="500">
+![18](https://github.com/IoanaFlore/SimpleBooks_Api_Testing_Automation_Framework/assets/111995212/fbc72b7c-160c-4576-8d61-de2b809d2e51)
+
+![19](https://github.com/IoanaFlore/SimpleBooks_Api_Testing_Automation_Framework/assets/111995212/66415f76-8948-485d-a24f-c0c5ff73e604)
+
+![20](https://github.com/IoanaFlore/SimpleBooks_Api_Testing_Automation_Framework/assets/111995212/799d2e6e-f072-4171-a42f-43707e2fe1b4)
+
