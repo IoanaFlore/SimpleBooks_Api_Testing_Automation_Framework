@@ -13,12 +13,18 @@ at this [link](https://github.com/rescenic/postman-course/blob/main/simple-books
 This directory includes two essential Python files:
 * "generate_token_requests": In this file, the operations required to obtain and keep the authentication token, essential for the proper functioning of the API, are managed.
 
-<img src="imagini-pycharm/generate_token_requests.PNG" width="900" height="500">
+![2](https://github.com/IoanaFlore/SimpleBooks_Api_Testing_Automation_Framework/assets/111995212/c6726066-1880-46ff-ba6b-358ea6a6c195)
+
 
 * "simple_books_requests": This file houses general functions for performing various API operations, including sending commands, retrieving commands, and updating them.
 
-<img src="imagini-pycharm/simple_books_requests.PNG" width="900" height="500">
-  
+![3](https://github.com/IoanaFlore/SimpleBooks_Api_Testing_Automation_Framework/assets/111995212/877bd3ed-bd3f-4d89-84a9-7ec132e87b54)
+
+![4](https://github.com/IoanaFlore/SimpleBooks_Api_Testing_Automation_Framework/assets/111995212/d0afed53-22b7-4451-bf56-af9df6016645)
+
+![5](https://github.com/IoanaFlore/SimpleBooks_Api_Testing_Automation_Framework/assets/111995212/f678319f-2e1c-4280-ac5f-70b9dbee6fa5)
+
+
 ## 3) "tests":
 * This section includes separate Python files for implementing specific tests, focusing on different aspects of the API functionality. The modular approach allows for comprehensive and specific testing of every aspect of the API.
 
