@@ -6,7 +6,8 @@ at this [link](https://github.com/rescenic/postman-course/blob/main/simple-books
 ## 1) "reports":
 * This directory serves as a storage place for general reports, providing insight into the results of the tests performed. This section provides a clear picture of the integrity and correctness of the API functionality after testing.
 
-<img src="imagini-pycharm/Api-Test-Report.png" width="900" height="500">
+<img src="![1](https://github.com/IoanaFlore/SimpleBooks_Api_Testing_Automation_Framework/assets/111995212/0bc24f24-534e-4099-a508-5a0148619df4)
+" width="900" height="500">
 
 ## 2) "requests_folder":
 This directory includes two essential Python files:
